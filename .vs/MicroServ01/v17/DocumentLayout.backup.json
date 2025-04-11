@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\MicroServ01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|d:\\proyectos\\microserv01\\microserv01\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|solutionrelative:microserv01\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DF9831-93E1-4A3E-8081-1F392E855851}|Elementos de la soluci\u00F3n{43DF9831-93E1-4A3E-8081-1F392E855851}|D:\\Proyectos\\MicroServ01\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{43DF9831-93E1-4A3E-8081-1F392E855851}|Elementos de la soluci\u00F3n{43DF9831-93E1-4A3E-8081-1F392E855851}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DF9831-93E1-4A3E-8081-1F392E855851}|Elementos de la soluci\u00F3n{43DF9831-93E1-4A3E-8081-1F392E855851}|D:\\Proyectos\\MicroServ01\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43DF9831-93E1-4A3E-8081-1F392E855851}|Elementos de la soluci\u00F3n{43DF9831-93E1-4A3E-8081-1F392E855851}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DF9831-93E1-4A3E-8081-1F392E855851}|Elementos de la soluci\u00F3n{43DF9831-93E1-4A3E-8081-1F392E855851}|D:\\Proyectos\\MicroServ01\\Env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43DF9831-93E1-4A3E-8081-1F392E855851}|Elementos de la soluci\u00F3n{43DF9831-93E1-4A3E-8081-1F392E855851}|solutionrelative:Env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|d:\\proyectos\\microserv01\\microserv01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|solutionrelative:microserv01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|d:\\proyectos\\microserv01\\microserv01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|solutionrelative:microserv01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|d:\\proyectos\\microserv01\\microserv01\\controllers\\micro01controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|solutionrelative:microserv01\\controllers\\micro01controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37ECD52-5501-4CE7-9F60-793EBCFE9CCE}|MicroServ01.Infrastructure\\MicroServ01.Infrastructure.csproj|d:\\proyectos\\microserv01\\microserv01.infrastructure\\repositories\\tablarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37ECD52-5501-4CE7-9F60-793EBCFE9CCE}|MicroServ01.Infrastructure\\MicroServ01.Infrastructure.csproj|solutionrelative:microserv01.infrastructure\\repositories\\tablarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EDE3E1-00FF-4887-B42D-E48E33168218}|MicroServ01.Application\\MicroServ01.Application.csproj|d:\\proyectos\\microserv01\\microserv01.application\\services\\tablaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EDE3E1-00FF-4887-B42D-E48E33168218}|MicroServ01.Application\\MicroServ01.Application.csproj|solutionrelative:microserv01.application\\services\\tablaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EDE3E1-00FF-4887-B42D-E48E33168218}|MicroServ01.Application\\MicroServ01.Application.csproj|d:\\proyectos\\microserv01\\microserv01.application\\interfaces\\itablaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EDE3E1-00FF-4887-B42D-E48E33168218}|MicroServ01.Application\\MicroServ01.Application.csproj|solutionrelative:microserv01.application\\interfaces\\itablaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EDE3E1-00FF-4887-B42D-E48E33168218}|MicroServ01.Application\\MicroServ01.Application.csproj|d:\\proyectos\\microserv01\\microserv01.application\\interfaces\\itablarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EDE3E1-00FF-4887-B42D-E48E33168218}|MicroServ01.Application\\MicroServ01.Application.csproj|solutionrelative:microserv01.application\\interfaces\\itablarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37ECD52-5501-4CE7-9F60-793EBCFE9CCE}|MicroServ01.Infrastructure\\MicroServ01.Infrastructure.csproj|d:\\proyectos\\microserv01\\microserv01.infrastructure\\common\\datamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37ECD52-5501-4CE7-9F60-793EBCFE9CCE}|MicroServ01.Infrastructure\\MicroServ01.Infrastructure.csproj|solutionrelative:microserv01.infrastructure\\common\\datamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|d:\\proyectos\\microserv01\\microserv01\\microserv01.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9ECE7548-589F-42DF-B8EB-20CC26C4352B}|MicroServ01\\MicroServ01.Api.csproj|solutionrelative:microserv01\\microserv01.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946EC4C8-EF13-41B5-9597-2935F0C47CDF}|MicroServ01.Domain\\MicroServ01.Domain.csproj|d:\\proyectos\\microserv01\\microserv01.domain\\models\\tablarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946EC4C8-EF13-41B5-9597-2935F0C47CDF}|MicroServ01.Domain\\MicroServ01.Domain.csproj|solutionrelative:microserv01.domain\\models\\tablarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-11T05:46:27.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Env",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\Env",
+              "RelativeDocumentMoniker": "Env",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\Env",
+              "RelativeToolTip": "Env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-11T05:22:14.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroServ01\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01\\appsettings.json",
+              "RelativeToolTip": "MicroServ01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T05:19:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-11T05:16:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01\\Dockerfile",
+              "RelativeDocumentMoniker": "MicroServ01\\Dockerfile",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01\\Dockerfile",
+              "RelativeToolTip": "MicroServ01\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-11T05:11:45.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TablaRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01.Infrastructure\\Repositories\\TablaRepository.cs",
+              "RelativeDocumentMoniker": "MicroServ01.Infrastructure\\Repositories\\TablaRepository.cs",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01.Infrastructure\\Repositories\\TablaRepository.cs",
+              "RelativeToolTip": "MicroServ01.Infrastructure\\Repositories\\TablaRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:52:42.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MicroServ01.http",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01\\MicroServ01.http",
+              "RelativeDocumentMoniker": "MicroServ01\\MicroServ01.http",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01\\MicroServ01.http",
+              "RelativeToolTip": "MicroServ01\\MicroServ01.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-11T03:54:45.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TablaService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01.Application\\Services\\TablaService.cs",
+              "RelativeDocumentMoniker": "MicroServ01.Application\\Services\\TablaService.cs",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01.Application\\Services\\TablaService.cs",
+              "RelativeToolTip": "MicroServ01.Application\\Services\\TablaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:43:36.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServ01\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01\\Program.cs",
+              "RelativeToolTip": "MicroServ01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:37:35.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITablaRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01.Application\\Interfaces\\ITablaRepository.cs",
+              "RelativeDocumentMoniker": "MicroServ01.Application\\Interfaces\\ITablaRepository.cs",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01.Application\\Interfaces\\ITablaRepository.cs",
+              "RelativeToolTip": "MicroServ01.Application\\Interfaces\\ITablaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:18:28.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataMapper.cs",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01.Infrastructure\\Common\\DataMapper.cs",
+              "RelativeDocumentMoniker": "MicroServ01.Infrastructure\\Common\\DataMapper.cs",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01.Infrastructure\\Common\\DataMapper.cs",
+              "RelativeToolTip": "MicroServ01.Infrastructure\\Common\\DataMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:54:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITablaService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01.Application\\Interfaces\\ITablaService.cs",
+              "RelativeDocumentMoniker": "MicroServ01.Application\\Interfaces\\ITablaService.cs",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01.Application\\Interfaces\\ITablaService.cs",
+              "RelativeToolTip": "MicroServ01.Application\\Interfaces\\ITablaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:46:03.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TablaRequest.cs",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01.Domain\\Models\\TablaRequest.cs",
+              "RelativeDocumentMoniker": "MicroServ01.Domain\\Models\\TablaRequest.cs",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01.Domain\\Models\\TablaRequest.cs",
+              "RelativeToolTip": "MicroServ01.Domain\\Models\\TablaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:25:53.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Micro01Controller.cs",
+              "DocumentMoniker": "D:\\Proyectos\\MicroServ01\\MicroServ01\\Controllers\\Micro01Controller.cs",
+              "RelativeDocumentMoniker": "MicroServ01\\Controllers\\Micro01Controller.cs",
+              "ToolTip": "D:\\Proyectos\\MicroServ01\\MicroServ01\\Controllers\\Micro01Controller.cs",
+              "RelativeToolTip": "MicroServ01\\Controllers\\Micro01Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:21:18.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
