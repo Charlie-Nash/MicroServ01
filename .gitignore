@@ -1,4 +1,5 @@
 # Archivos de configuración de usuario y del IDE
+.vs/
 .vscode/
 .idea/
 *.suo
