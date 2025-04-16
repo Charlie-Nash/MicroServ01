@@ -4,6 +4,6 @@ namespace MicroServ01.Application.Interfaces
 {
     public interface ITablaService
     {
-        Task<List<TablaResult>> ListadoAsync(TablaRequest request);
+        Task<List<TablaResult>> Tabla_PS_Listado(TablaRequest request);
     }
 }

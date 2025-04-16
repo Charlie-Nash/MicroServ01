@@ -17,7 +17,7 @@ public class Micro01Controller : ControllerBase
     [HttpPost("listado")]
     public async Task<IActionResult> Listado([FromBody] TablaRequest request)
     {
-        var listado = await _tablaService.ListadoAsync(request);
+        var listado = await _tablaService.Tabla_PS_Listado(request);
 
         return Ok(listado);
     }

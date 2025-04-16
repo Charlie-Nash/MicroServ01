@@ -18,5 +18,7 @@ namespace MicroServ01.Domain.Models
         public string? FecIngreso { get; set; }
         public string? Modalidad { get; set; }
         public int CreditosAcum { get; set; }
+
+        public string? Mensaje { get; set; }
     }
 }

@@ -20,9 +20,10 @@ namespace MicroServ01.Infrastructure.Repositories
             _logger = logger;
         }
 
-        public async Task<List<TablaResult>> Tabla_PS_Listado(TablaRequest tablaRequest)
+        public async Task<List<TablaResult>> Tabla_PS_Listado(TablaRequest request)
         {
             var listado = new List<TablaResult>();
+            var rptaError = new TablaResult();
 
             try
             {
@@ -32,8 +33,8 @@ namespace MicroServ01.Infrastructure.Repositories
 
                 using var command = new MySqlCommand("call tabla_ps_listado(@P_SEXO, @P_CARRERA)", connection);
 
-                command.Parameters.AddWithValue("@P_SEXO", tablaRequest.Sexo);
-                command.Parameters.AddWithValue("@P_CARRERA", tablaRequest.Carrera);
+                command.Parameters.AddWithValue("@P_SEXO", request.Sexo);
+                command.Parameters.AddWithValue("@P_CARRERA", request.Carrera);
 
                 using var reader = await command.ExecuteReaderAsync();
 
@@ -60,10 +61,18 @@ namespace MicroServ01.Infrastructure.Repositories
             catch (MySqlException ex)
             {
                 _logger.LogError(ex, "Error de conexión con la BD.");
+
+                rptaError.Mensaje = ex.Message;
+
+                listado.Add(rptaError);
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error inesperado.");
+
+                rptaError.Mensaje = ex.Message;
+
+                listado.Add(rptaError);
             }
 
             return listado;

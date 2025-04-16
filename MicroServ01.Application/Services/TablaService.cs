@@ -11,7 +11,7 @@ namespace MicroServ01.Application.Services
             _tablaRepository = tablaRepository;
         }
 
-        public async Task<List<TablaResult>> ListadoAsync(TablaRequest request)
+        public async Task<List<TablaResult>> Tabla_PS_Listado(TablaRequest request)
         {
             var listado = await _tablaRepository.Tabla_PS_Listado(request);
 

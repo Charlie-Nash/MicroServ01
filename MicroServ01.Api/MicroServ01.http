@@ -1,4 +1,4 @@
-@MicroServ01_HostAddress = http://localhost:5000
+@MicroServ01_HostAddress = http://localhost:5001
 
 GET {{MicroServ01_HostAddress}}/
 Accept: text/plain
